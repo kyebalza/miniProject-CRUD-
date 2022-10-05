@@ -15,7 +15,7 @@ CRUD구현 미니 프로젝트입니다.
 
 3. RESTful한 API를 설계했나요? 어떤 부분이 그런가요? 어떤 부분이 그렇지 않나요?
  - URL에 행위에 대한 내용을 포함하지 않고 명사로 명시해 주었다.
- -  
+ 
 4. 적절한 관심사 분리를 적용하였나요? (Controller, Repository, Service)
  - Controller : 사용자에게서 특정한 요청을 받았을 때 올바른 요청을 맵핑해주는 기능을 넣었다.
  - Service : Controller와 Repository 사이의 로직 역할을 넣었다.
