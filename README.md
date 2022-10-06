@@ -26,3 +26,5 @@ CRUD구현 미니 프로젝트입니다.
  - @Service
 
 6. API 명세서 작성 가이드라인을 검색하여 직접 작성한 명세서와 비교해보세요!
+<img width="268" alt="API1" src="https://user-images.githubusercontent.com/95573777/194204597-cdb6a2ea-907f-4674-b454-5ac8e6fed6e5.png">
+<img width="275" alt="API2" src="https://user-images.githubusercontent.com/95573777/194204613-c52b09ed-15fc-4013-bc85-0dbb42b81321.png">
